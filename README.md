@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 # 📊 Customer Demographics & Marketing Campaign Analytics Dashboard
 
