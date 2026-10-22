@@ -171,6 +171,10 @@ print("Segmented customer lists successfully exported for digital campaign execu
 
 <img src="assets/income_vs_total_spend.svg" alt="Income vs Total Spend" width="900" />
 
+### 🔗 Project Links
+- Google Colab: https://colab.research.google.com/drive/1wJL_EpTriJEoaPsxN5epsRVZPe7ANgqF?usp=sharing
+- Google Drive folder: https://drive.google.com/drive/folders/1sIgP_eODEOq_a5Y6UOrUQYQWfdPl0wsT?usp=sharing
+
 ---
 
 ## 📌 Summary
